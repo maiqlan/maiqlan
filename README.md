@@ -1,7 +1,8 @@
 ### <div align ="center "> Hello all! :fish: </div>
 
 ## About Me
-  * My name is Ren, and I'm passionate about coding, learning new things, and sea creatures!
+  * My name is Ren, and I'm passionate about coding, learning new things, and creative outlets!
+
 <!--
 **maiqlan/maiqlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
